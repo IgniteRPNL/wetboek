@@ -93,8 +93,10 @@ Duur: aantal maanden/ aantal uren
 
 #####TO DO
 ○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
-○ Wie vervult in Ignite de rol van officier van justitie (leidt opsporingsonderzoeken en is aanwezig in rechtszaken om een straf te eisen)? <br />
+○ Wie vervult in Ignite de rol van officier van justitie (leidt opsporingsonderzoeken en is aanwezig 
+&ensp; &nbsp; in rechtszaken om een straf te eisen)? <br />
 &ensp; &nbsp; &nbsp; &nbsp; ○ Heet zo'n iemand dan ook officier van justitie of anders vanwege de amerikaanse politie?
+○ Wie mogen er in Ignite advocaat zijn? Zie: [Artikel 37 Sv](/sv/#artikel-37-toelating-als-raadslieden) <br />
 
 #### [Opiumwet](/opw)
 

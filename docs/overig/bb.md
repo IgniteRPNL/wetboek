@@ -41,3 +41,4 @@ D 530| Openbare dronkenschap | € ,- |
 F 116 a| Bezit inbrekerswerktuig | € ,- |
 F 120 a| Klimmen en klauteren | € ,- |
 F 120 b| Overlast veroorzaken | € ,- |
+-| [Gezichtsbedekking dragen](/overig/wgvgk/#artikel-1) | € ,- |
